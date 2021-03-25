@@ -1,4 +1,4 @@
 # Demo
 
 - Learning GitHub
-- add line for local repository
+- add line in local repository
